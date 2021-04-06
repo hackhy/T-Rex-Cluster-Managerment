@@ -1,7 +1,8 @@
 # T-Rex-Cluster-Managerment
 
 Python3.7
-package Flask 
+
+package requests,Flask 
 
 1、run server.py on server
 
