@@ -6,6 +6,6 @@ package requests,Flask
 
 1、run server.py on server
 
-2、run client [serverURL] [workername] on client
+2、run client.py [serverURL] [workername] on client
 
 visit serverURL/show can see your machine status
